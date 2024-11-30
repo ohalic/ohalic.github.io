@@ -1,5 +1,5 @@
-Packet
-- In CISSP Glossary
+# Packet
+**In CISSP Glossary**
   - Representation of data at Layer 3 of the Open Systems Interconnection (OSI) model.
     
   - ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) : การแทนข้อมูลในชั้นที่ 3 ของโมเดล Open Systems Interconnection (OSI) ในโมเดล OSI ชั้นที่ 3 คือ ชั้นเครือข่าย (Network Layer) ซึ่งมีหน้าที่หลักในการจัดการการส่งข้อมูลระหว่างอุปกรณ์ต่างๆ ในเครือข่าย โดยการกำหนดเส้นทาง (Routing) และการกำหนดที่อยู่ (Addressing) สำหรับการส่งข้อมูล การแทนข้อมูลในชั้นเครือข่ายจะถูกจัดในรูปของ แพ็กเก็ต (Packet) ซึ่งเป็นหน่วยข้อมูลที่ประกอบไปด้วยข้อมูลที่จำเป็นสำหรับการส่งผ่าน เครือข่าย เช่น ที่อยู่ต้นทางและปลายทาง และข้อมูลอื่นๆ ที่ช่วยในการจัดการการส่งข้อมูลไปยังจุดหมายได้อย่างถูกต้องและมีประสิทธิภาพ ดังนั้น การแทนข้อมูลในชั้นเครือข่ายคือการใช้แพ็กเก็ตและที่อยู่ IP ในการจัดการการส่งข้อมูลระหว่าง อุปกรณ์ในเครือข่าย
@@ -8,7 +8,7 @@ Packet
  
   - Souce : [https://csrc.nist.gov/glossary/term/packet](https://www.isc2.org/certifications/cissp/cissp-student-glossary#p)
 
-- In NIST
+**In NIST**
   - The logical unit of network communications produced by the transport layer.
     
   - ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) : หน่วยตรรกะของการสื่อสารในเครือข่ายที่ถูกสร้างขึ้นโดยชั้นการขนส่ง (Transport Layer) หน่วยตรรกะของการสื่อสารที่ชั้นการขนส่ง (Transport Layer) สร้างขึ้นคือการ segment หรือ การ segment ข้อมูล ซึ่งเป็นการแบ่งข้อมูลที่ต้องการส่งจากแอปพลิเคชันให้เป็นหน่วยเล็กๆ เพื่อให้สามารถส่งผ่านเครือข่ายได้อย่างมีประสิทธิภาพ โดยการจัดการกับการเชื่อมต่อและการควบคุมการไหลของข้อมูล รวมถึงการรับประกันความถูกต้องของข้อมูลที่ส่ง
@@ -17,8 +17,10 @@ Packet
  
   - Souce : [https://csrc.nist.gov/glossary/term/packet](https://csrc.nist.gov/glossary/term/packet)
     
-- Myself
+**Myself**
   - สรุปแล้ว packet หมายถึง การแทนข้อมูลในชั้น transport layer ซึ่งข้อมูลจะถูกแบ่งเป็นหน่วยเล็กๆ(เรียกว่า packet)เพื่อส่งข้อมูลระหว่างอุปกรณ์ต่างๆในเครือข่ายอย่างมีประสิทธิภาพ
-- Sample daily life : การส่งข้อความ แอปพลิเคชันต่างๆไม่ว่าจะเป็น Line,WhatsApp,Messenger ต่างก็ใช้ packet ในการส่งข้อความ รูปภาพ หรือเสียงระหว่างผู้ใช้ โดยข้อความจะถูกแบ่งออกเป็น packet ย่อยและส่งไปยังปลายทาง
-- URL : 
-
+**Sample daily life**
+  - การส่งข้อความ แอปพลิเคชันต่างๆไม่ว่าจะเป็น Line,WhatsApp,Messenger ต่างก็ใช้ packet ในการส่งข้อความ รูปภาพ หรือเสียงระหว่างผู้ใช้ โดยข้อความจะถูกแบ่งออกเป็น packet ย่อยและส่งไปยังปลายทาง
+**URL**
+    [งานของเพื่อน](https://ohalic.github.io/packet)
+นางสาวณัฐณิชา นนตระอุดร 6530200134 sec800
