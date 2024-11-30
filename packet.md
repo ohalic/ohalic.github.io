@@ -21,4 +21,3 @@ Packet
   - สรุปแล้ว packet หมายถึง การแทนข้อมูลในชั้น transport layer ซึ่งข้อมูลจะถูกแบ่งเป็นหน่วยเล็กๆ(เรียกว่า packet)เพื่อส่งข้อมูลระหว่างอุปกรณ์ต่างๆในเครือข่ายอย่างมีประสิทธิภาพ
 - sample daily life : การส่งข้อความ แอปพลิเคชันต่างๆไม่ว่าจะเป็น Line,WhatsApp,Messenger ต่างก็ใช้ packet ในการส่งข้อความ รูปภาพ หรือเสียงระหว่างผู้ใช้ โดยข้อความจะถูกแบ่งออกเป็น packet ย่อยและส่งไปยังปลายทาง
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natnicha)](https://github.com/anuraghazra/github-readme-stats)
