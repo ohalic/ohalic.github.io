@@ -1,6 +1,7 @@
-# 6530200134
+# ohalic.github.io
 - Natnicha Nontraudon
  - Bam
+ - 6530200134
 
-![alt text](github/bam.jpg)
+![profile](github/bam.jpg)
 [packet](packet.md)
