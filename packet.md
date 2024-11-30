@@ -15,7 +15,7 @@ Packet
     
   - ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)  : หน่วยตรรกะของการสื่อสารเครือข่ายที่ผลิตโดยเลเยอร์การขนส่ง
  
-  - Souce : (https://csrc.nist.gov/glossary/term/packet)
+  - Souce : https://csrc.nist.gov/glossary/term/packet
     
 - Myself
   - สรุปแล้ว packet หมายถึง การแทนข้อมูลในชั้น transport layer ซึ่งข้อมูลจะถูกแบ่งเป็นหน่วยเล็กๆ(เรียกว่า packet)เพื่อส่งข้อมูลระหว่างอุปกรณ์ต่างๆในเครือข่ายอย่างมีประสิทธิภาพ
