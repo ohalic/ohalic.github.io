@@ -21,6 +21,6 @@
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
-![profile](github/bam.jpg)
+![profile](picture_github/bam.jpg)
 
 [packet](packet.md)
