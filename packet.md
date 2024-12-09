@@ -6,7 +6,7 @@
     
   - ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)  : การแทนค่าข้อมูลที่เลเยอร์ 3 ของโมเดล OSI
  
-  - Souce : [https://csrc.nist.gov/glossary/term/packet](https://www.isc2.org/certifications/cissp/cissp-student-glossary#p)
+  - Souce : [https://www.isc2.org/certifications/cissp/cissp-student-glossary#p](https://www.isc2.org/certifications/cissp/cissp-student-glossary#p)
 
 **In NIST**
   - The logical unit of network communications produced by the transport layer.
