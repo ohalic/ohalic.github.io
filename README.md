@@ -5,8 +5,8 @@
 - 📫 How to reach me **[Natnicha.non@ku.th](mailto:Natnicha.non@ku.th)**
 
 **Connect with me:**
-- **[IG : ](https://instagram.com/nnc_ntrud)**
-- **[Facebook : ](https://www.facebook.com/natnicha.nontraudon)**
+- **[IG : nnc_ntrud](https://instagram.com/nnc_ntrud)**
+- **[Facebook : Natnicha Nontraudon](https://www.facebook.com/natnicha.nontraudon)**
 
 **Languages and Tools:**
 - ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
