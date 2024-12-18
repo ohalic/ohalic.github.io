@@ -24,3 +24,5 @@
 ![profile](picture_github/bam.jpg)
 
 [packet](packet.md)
+
+[Christmas & New Year 2025](Christmas_NewYear_2025.md)
