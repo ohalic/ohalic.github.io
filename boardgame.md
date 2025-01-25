@@ -18,9 +18,9 @@
 - ตัวแทนถ่ายวีดีโอกิจกรรม 1 คน
 
 
-<center>![pic1](picture_github/act1_bg.png) | ![pic2](picture_github/act2_bg.png) 
+![pic1](picture_github/act1_bg.png) | ![pic2](picture_github/act2_bg.png) 
 :-------------------------:|:-------------------------:
-![pic3](picture_github/act3_bg.PNG) | ![pic4](picture_github/act4_bg.PNG)</center>
+![pic3](picture_github/act3_bg.PNG) | ![pic4](picture_github/act4_bg.PNG)
 
 **สิ่งที่ได้รับจากกิจกรรม**
 
