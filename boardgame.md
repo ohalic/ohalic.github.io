@@ -19,7 +19,7 @@
 
 | รูป 1 | รูป 2 |
 
-| :------------ | ------------: |
+| :------------------------ | ------------------------: |
 | ![pic1](picture_github/act1_bg.png) | ![pic2](picture_github/act2_bg.png) |
 | รูป 3 | รูป 4 |
 | ![pic3](picture_github/act3_bg.PNG) | ![pic4](picture_github/act4_bg.PNG) |
