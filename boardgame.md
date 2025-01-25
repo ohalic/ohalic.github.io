@@ -4,7 +4,7 @@
 
 > Cybersecurity is not just about systems and technology — it's about people. Train the human, secure the system.
 
-<h2>**รายละเอียดกิจกรรม**</h2>
+<h2>รายละเอียดกิจกรรม</h2>
 
 ---
 
@@ -18,11 +18,11 @@
 - ตัวแทนถ่ายวีดีโอกิจกรรม 1 คน
 
 ![pic1](picture_github/act1_bg.png) |   ![pic2](picture_github/act2_bg.png)
-:-------------------------:|:-------------------------:
+:-------------------------| -------------------------:
 ![pic4](picture_github/act4_bg.PNG) |   ![pic3](picture_github/act3_bg.PNG)
 
 
-<h2>**สิ่งที่ได้รับจากกิจกรรม**</h2>
+<h2>สิ่งที่ได้รับจากกิจกรรม</h2>
 
 ---
 
@@ -31,14 +31,14 @@
 - การแลกเปลี่ยนแนวคิดและแนวปฏิบัติช่วยให้ผู้เข้าร่วมสามารถเข้าใจถึง **ความเสี่ยงและการป้องกันภัยในโลกไซเบอร์ได้ดียิ่งขึ้น**  
 - กิจกรรมยังช่วยส่งเสริมให้เกิด **พฤติกรรมที่ปลอดภัยในสังคมดิจิทัลได้อย่างมีประสิทธิภาพ**
 
-<h2>**วิดีโอบรรยากาศกิจกรรม**</h2>  
+<h2>วิดีโอบรรยากาศกิจกรรม</h2>  
 
 ---
 
 [![VDO](picture_github/boardgame_bg.png)](https://www.youtube.com/watch?v=2hpcDR_QJQM)
 > ทั้งนี้ทางกลุ่มผู้จัดได้ขออนุญาตผู้เข้าร่วมถ่ายภาพและวิดีโอเพื่อบันทึกภาพกิจกรรมดังกล่าวเรียบร้อยแล้ว
 
-<h2>**สมาชิกกลุ่ม**</h2>  
+<h2>สมาชิกกลุ่ม</h2>  
 - [Chonnikarn Sangwang](https://nixe97.github.io/boardgame) 
 - [Natnicha Nontraudon](https://ohalic.github.io/boardgame)  
 - [Supawadee Muangprasert](https://donyweasley.github.io/boardgame/) 
