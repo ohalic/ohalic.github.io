@@ -17,6 +17,8 @@
 - ตัวแทนจากสมาชิกกลุ่มผู้จัดทำอีก 4 คน
 - ตัวแทนถ่ายวีดีโอกิจกรรม 1 คน
 
+|:-----:|
+|รูปกิจกรรม|
 |![pic1](picture_github/act1_bg.png)|![pic2](picture_github/act2_bg.png)|
 |:-----|-----:|
 |![pic4](picture_github/act4_bg.PNG)|![pic3](picture_github/act3_bg.PNG)|
