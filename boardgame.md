@@ -4,7 +4,7 @@
 
 > Cybersecurity is not just about systems and technology — it's about people. Train the human, secure the system.
 
-*รายละเอียดกิจกรรม*
+**รายละเอียดกิจกรรม**
 
 ---
 
@@ -17,9 +17,9 @@
 - ตัวแทนจากสมาชิกกลุ่มผู้จัดทำอีก 4 คน
 - ตัวแทนถ่ายวีดีโอกิจกรรม 1 คน
 
-![pic1](picture_github/act1_bg.png) |   ![pic2](picture_github/act2_bg.png)
-:------------| -------------:
-![pic4](picture_github/act4_bg.PNG) |   ![pic3](picture_github/act3_bg.PNG)
+|![pic1](picture_github/act1_bg.png)|![pic2](picture_github/act2_bg.png)|
+|:-----|-----:|
+|![pic4](picture_github/act4_bg.PNG)|![pic3](picture_github/act3_bg.PNG)|
 
 
 **สิ่งที่ได้รับจากกิจกรรม**
