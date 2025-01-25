@@ -19,7 +19,9 @@
 
 :-------------------------:|:-------------------------:
 ![pic1](picture_github/act1_bg.png) |  ![pic3](picture_github/act3_bg.PNG)
+:-------------------------:|:-------------------------:
 ![pic4](picture_github/act4_bg.PNG) |  ![pic2](picture_github/act2_bg.png)
+
 
 ## สิ่งที่ได้รับจากกิจกรรม 
 
