@@ -1,2 +1,8 @@
 title: 6530200134
 theme: jekyll-theme-merlot
+<style>
+  img {
+    width: 100px;
+    height: auto;
+  }
+</style>
