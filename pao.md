@@ -6,8 +6,8 @@
 
 ## Check in 
 
-![pao1](picture_github/PAO_2.jpg)
+![pao1](picture_github/PAO_2.JPG)
 
-![pao1](picture_github/PAO_1.jpg)
+![pao1](picture_github/PAO_1.JPG)
 
 
