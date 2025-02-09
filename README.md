@@ -34,3 +34,5 @@
 [SecurityControl](security-control.md)
 
 [PAO2025](pao.md)
+
+[security-requirement](security-requirement.md)
